@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shota Shimazu</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotastage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![SHOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotastage&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shotastage&label=Profile%20views&color=0e75b6&style=flat" alt="shotastage" /> </p>
 
